@@ -1,18 +1,17 @@
 # Panduan Mengadakan Workshop Online Pemrograman (Codelabs)
-Panduan ini ditujukan buat para content creators dan community organizers bagaimana membuat workshop pemrograman dengan format online.
+Panduan ini ditujukan buat para content creators dan community organizers bagaimana membuat workshop pemrograman dengan format online. Panduan ini tidak membahas bagaimana melakukan streaming tapi fokus pada format dan proses dalam mengadakan workshop.
 
 ## Persiapan Streaming
 ### Pemilihan Media Streaming
-1. Twitch
-2. YouTube Live
-3. Instagram
-4. Zoom
-5. Hangout Meet
+1. [Twitch](https://www.twitch.tv/)
+2. [YouTube Live](https://www.youtube.com/)
+4. [Zoom](https://zoom.us/)
+5. [Hangout Meet](https://hangouts.google.com/)
 
 ### Peralatan Streaming
-1. Web Cam
-2. Microphone
-3. Koneksi internet
+1. Web Cam, bisa camera built-in laptop atau external untuk kualitas lebih baik.
+2. Microphone, bisa menggunakan mic built-in laptop atau external untuk kualitas lebih baik.
+3. Koneksi internet stabil. Pastikan mengujicoba terlebih dahulu memastikan kapasitas internet cukup untuk melakukan live streaming.
 
 
 ## Format Codelabs
