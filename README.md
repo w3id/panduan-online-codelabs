@@ -19,14 +19,14 @@ Panduan ini ditujukan buat para content creators dan community organizers bagaim
 Format ini ditujukan untuk coding bersama, terutama bila tujuan akhir adalah agar setiap peserta bisa mendapatkan hasil yang serupa. Layaknya workshop programming di kelas, akan diberikan instruksi langkah demi langkah dan akan diberikan waktu untuk melakukan langkah tersebut.
 
 ### Konten
-Konten harus tersedia offline yang bisa diakses oleh peserta. Kalau ada yang perlu disiapkan seperti tool yang perlu di-install, sebaiknya diinformasi sebelumnya baik lewat halaman event workshop atau email. Contoh format konten bisa dilihat di Google Developers Codelabs.
+Konten harus tersedia offline yang bisa diakses oleh peserta. Kalau ada yang perlu disiapkan seperti tool yang perlu di-install, sebaiknya diinformasi sebelumnya baik lewat halaman event workshop atau email. Contoh format konten bisa dilihat di [Google Developers Codelabs](https://codelabs.developers.google.com/).
 
 ### Channel Streaming
 
 Dalam proses workshop ada 3 channel streaming yang perlu disiapkan oleh fasilitator:
-1. Channel video publik, video streaming di mana fasilitator akan memberikan instruksi dan menunjukan layar fasilitator sehingga peserta tahu apa yang akan dilakukan.
-2. Channel video konsultasi, berupa video conference di mana peserta yang memerlukan bantuan dari fasilitator yang agak susah dijawab melalui chat stream bisa melakukan panggilan melalui video conference channel untuk konsultasi. Sehingga bisa saling berbagi layar untuk menunjukan langsung masalah yang dihadapi oleh peserta. Channel konsultasi ini bisa di-stream ke channel publik agar peserta yang mengalami masalah yang sama bisa melihat cara menyelesaikannya.
-3. Channel chat, biasanya fungsi chat selalu tersedia pada layanan video streaming atau video conference. Pastikan menggunakan layanan chat yang terintegrasi dengan video streaming provider yang dipilih agar peserta tidak perlu berpindah-pindah aplikasi.
+1. **Channel video publik**, video streaming di mana fasilitator akan memberikan instruksi dan menunjukan layar fasilitator sehingga peserta tahu apa yang akan dilakukan.
+2. **Channel video konsultasi**, berupa video conference di mana peserta yang memerlukan bantuan dari fasilitator yang agak susah dijawab melalui chat stream bisa melakukan panggilan melalui video conference channel untuk konsultasi. Sehingga bisa saling berbagi layar untuk menunjukan langsung masalah yang dihadapi oleh peserta. Channel konsultasi ini bisa di-stream ke channel publik agar peserta yang mengalami masalah yang sama bisa melihat cara menyelesaikannya.
+3. **Channel chat**, biasanya fungsi chat selalu tersedia pada layanan video streaming atau video conference. Pastikan menggunakan layanan chat yang terintegrasi dengan video streaming provider yang dipilih agar peserta tidak perlu berpindah-pindah aplikasi.
 
 ## Proses Workshop
 Proses workshop yang akan berjalan akan seperti berikut:
